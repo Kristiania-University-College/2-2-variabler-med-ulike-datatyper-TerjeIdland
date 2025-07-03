@@ -13,7 +13,7 @@ console.log("Datatypen til ", tegn, " er ", typeof tegn);
 //_______________________________________________________________________________________________________
 
 //Oppgave 3: På neste linje: Definer en variabel med navn "sum1" og gi den verdien tall+tall.
-let sum1 = tegn + tegn;
+let sum1 = tall + tall;
 //Ta bort // i linja nedenfor og deretter "kjør koden" med Ctrl+Alt+n for å se hva sum1 er.
 console.log("sum1 = ", sum1);
 
